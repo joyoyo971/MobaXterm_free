@@ -1,4 +1,4 @@
-# MobaXterm_free
+# MobaXterm_free for Windows
 
 Latest version
 MobaXterm_Personal_25.0
